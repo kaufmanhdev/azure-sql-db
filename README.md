@@ -1,7 +1,7 @@
 # SQL Data Management Project: Inventory & Purchase Order System
 
 **Student:** Arshia Kahani, Herman Kaufman  
-**Course:** SQL Data Management  
+**Course:** Data Management (Kulhánek Rastislav)
 **Assignment:** Final Database System Project
 
 ---
