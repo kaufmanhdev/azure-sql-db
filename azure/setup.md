@@ -44,12 +44,7 @@ This document provides step-by-step instructions to recreate the Azure environme
 ## Step 5: Connect and Deploy SQL Scripts
 
 1. Connect using SSMS or Azure Data Studio
-2. Execute SQL scripts in the following order:
-   - `01_schema.sql`
-   - `02_constraints.sql`
-   - `03_views.sql`
-   - `04_stored_procedures.sql`
-   - `05_test_data.sql`
+2. Execute SQL scripts located within the sql/ by their number.
 
 ## Step 6: Verify Deployment
 
