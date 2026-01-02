@@ -75,14 +75,6 @@ The Azure infrastructure primarily hosts the database and provides connectivity 
 
 ---
 
-## Optional Enhancements (Not Required but Recommended)
-
-- **Azure Key Vault**: For securely storing database credentials.  
-- **Azure Monitor / Query Performance Insight**: For monitoring query execution and performance.  
-- **App Service Integration**: Deploy a simple web front-end connecting to the database for demonstration purposes.
-
----
-
 **Notes for Team Demo:**
 - During the seminar, the Azure portal can be shown to illustrate the server and database.  
 - Connection from SSMS or Azure Data Studio should be demonstrated to validate firewall and authentication configuration.  
